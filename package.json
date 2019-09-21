@@ -3,10 +3,7 @@
   "version": "1.0.0",
   "description": "## Instructions",
   "main": "index.js",
-  "dependencies": {
-    "chai": "^4.2.0",
-    "mocha": "^6.2.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.2.0"
